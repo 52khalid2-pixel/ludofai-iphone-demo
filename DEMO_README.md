@@ -1,4 +1,4 @@
-# LudoFai iPhone Demo
+# khalid iPhone Demo
 
 هذه نسخة تجريبية بواجهة عربية تحاكي لوحة التحكم الظاهرة في الفيديو.
 
